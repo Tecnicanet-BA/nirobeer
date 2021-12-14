@@ -1,0 +1,80 @@
+[submodule "addons-ingadhoc/account-payment"]
+	path = addons-ingadhoc/account-payment
+	url = https://github.com/ingadhoc/account-payment.git
+	branch = 13.0
+[submodule "addons-ingadhoc/account-financial-tools"]
+	path = addons-ingadhoc/account-financial-tools
+	url = https://github.com/ingadhoc/account-financial-tools.git
+	branch = 13.0
+[submodule "addons-ingadhoc/odoo-argentina"]
+	path = addons-ingadhoc/odoo-argentina
+	url = https://github.com/ingadhoc/odoo-argentina.git
+	branch = 13.0
+[submodule "addons-ingadhoc/argentina-sale"]
+	path = addons-ingadhoc/argentina-sale
+	url = https://github.com/ingadhoc/argentina-sale.git
+	branch = 13.0
+[submodule "addons-ingadhoc/stock"]
+	path = addons-ingadhoc/stock
+	url = https://github.com/ingadhoc/stock.git
+	branch = 13.0
+[submodule "addons-ingadhoc/aeroo_reports"]
+	path = addons-ingadhoc/aeroo_reports
+	url = https://github.com/ingadhoc/aeroo_reports.git
+	branch = 13.0
+[submodule "addons-ingadhoc/odoo-argentina-ee"]
+	path = addons-ingadhoc/odoo-argentina-ee
+	url = https://github.com/ingadhoc/odoo-argentina-ee.git
+	branch = 13.0
+[submodule "addons-oca/web"]
+	path = addons-oca/web
+	url = https://github.com/oca/web.git
+	branch = 13.0
+[submodule "addons-oca/brand"]
+	path = addons-oca/brand
+	url = https://github.com/oca/brand.git
+	branch = 13.0
+[submodule "addons-oca/sale-workflow"]
+	path = addons-oca/sale-workflow
+	url = https://github.com/oca/sale-workflow.git
+	branch = 13.0
+[submodule "addons-oca/server-ux"]
+	path = addons-oca/server-ux
+	url = https://github.com/oca/server-ux.git
+	branch = 13.0
+[submodule "addons-ingadhoc/miscellaneous"]
+	path = addons-ingadhoc/miscellaneous
+	url = https://github.com/ingadhoc/miscellaneous.git
+	branch = 13.0
+[submodule "addons-ingadhoc/product"]
+	path = addons-ingadhoc/product
+	url = https://github.com/ingadhoc/product.git
+	branch = 13.0
+[submodule "addons-ingadhoc/purchase"]
+	path = addons-ingadhoc/purchase
+	url = https://github.com/ingadhoc/purchase.git
+	branch = 13.0
+[submodule "addons-ingadhoc/sale"]
+	path = addons-ingadhoc/sale
+	url = https://github.com/ingadhoc/sale.git
+	branch = 13.0
+[submodule "addons-oca/partner-contact"]
+	path = addons-oca/partner-contact
+	url = https://github.com/oca/partner-contact.git
+	branch = 13.0
+[submodule "addons-oca/mis-builder"]
+	path = addons-oca/mis-builder
+	url = https://github.com/oca/mis-builder.git
+	branch = 13.0
+[submodule "addons-oca/server-tools"]
+	path = addons-oca/server-tools
+	url = https://github.com/oca/server-tools.git
+	branch = 13.0
+[submodule "addons-oca/stock-logistic-warehouse"]
+	path = addons-oca/stock-logistic-warehouse
+	url = https://github.com/oca/stock-logistic-warehouse.git
+	branch = 13.0
+[submodule "addons-oca/stock-logistics-workflow"]
+	path = addons-oca/stock-logistics-workflow
+	url = https://github.com/oca/stock-logistics-workflow.git
+	branch = 13.0
