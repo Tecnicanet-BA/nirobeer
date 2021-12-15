@@ -78,3 +78,8 @@
 	path = addons-oca/stock-logistics-workflow
 	url = https://github.com/oca/stock-logistics-workflow.git
 	branch = 13.0
+
+[submodule "addons-oca/product-attribute"]
+	path = addons-oca/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 13.0
